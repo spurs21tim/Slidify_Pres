@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/102040/163b7be876c04a92a3e012f3d1ffdc5c
+url: http://rpubs.com/Spurs21/102040
+when: 1440096763.52603
